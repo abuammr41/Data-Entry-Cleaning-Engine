@@ -1,0 +1,32 @@
+DATA ENTRY SAMPLE WORK
+
+TASK 1: COMPANY DATABASE
+--------------------------------------------------------------------------------
+Name            | Title     | Company       | Street Address  | City      | State       | ZIP
+--------------------------------------------------------------------------------
+Rahul Sharma    | Manager   | ABC Tech      | 123 Street      | Mumbai    | Maharashtra | 400001
+Priya Patel     | Developer | XYZ Solutions | 45 Park Avenue  | Ahmedabad | Gujarat     | 380001
+Amit Verma      | Analyst   | Delta Corp    | 78 Ring Road    | Delhi     | Delhi       | 110001
+--------------------------------------------------------------------------------
+
+TASK 2: DATA CLEANING (RAW WORK)
+--------------------------------------------------------------------------------
+Instruction: Format names, remove duplicates, and update status.
+
+[Raw Input]
+* ramesh kumar | Active
+* SNEHA REDDY | Inactive
+* ramesh kumar | Active (Duplicate)
+* pooja hegde | Active
+
+[Cleaned Output]
+* Ramesh Kumar | Active
+* Sneha Reddy  | Inactive
+* Pooja Hegde  | Active
+--------------------------------------------------------------------------------
+
+TASK 3: TEXT FORMATTING
+--------------------------------------------------------------------------------
+Heading: DATA ENTRY OPERATOR ROLES
+Text: A data entry clerk is responsible for transferring paper formats into computer files or database systems. They handle typing in customer information quickly and accurately. Strong typing speed and knowledge of MS Excel are basic requirements for this job.
+--------------------------------------------------------------------------------
